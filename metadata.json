@@ -1,0 +1,8 @@
+{
+  "name": "HYT 研发工作台",
+  "description": "一个受飞书和Cursor启发的综合性研发知识库、需求跟踪和项目管理平台。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
